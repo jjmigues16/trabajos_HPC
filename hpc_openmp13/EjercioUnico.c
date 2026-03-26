@@ -94,7 +94,7 @@ int main() {
     t_sec = omp_get_wtime() - t_sec;
     printf("   [Secuencial] Resultado: %f, Tiempo: %f s\n", integral, t_sec);
 
-    // Versión Paralela
+    // Version Paralela
     sum_mult_3 = 0.0;
     sum_not_mult_3 = 0.0;
     t_par = omp_get_wtime();

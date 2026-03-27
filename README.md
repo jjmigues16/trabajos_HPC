@@ -84,7 +84,7 @@ Para una matriz de 2000x2000, los resultados en mi computadora fueron espectacul
 
 ## ¿Cómo Compilar y Ejecutar?
 
-Necesitas tener un compilador de C como `gcc`.
+Se esitas tener un compilador de C como `gcc`.
 
 **Ejercicio 1 y 2 (Sin paralelismo):**
 ```sh
